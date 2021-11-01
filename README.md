@@ -1,6 +1,7 @@
 # lab-3
 This report takes the global average of a list ranking countries by their regarding their  “feeling of happiness”. It also includes contributing factors such as an average of each countries’ GDP, feeling supported socially, life expectancy, freedom to make choices, generosity and perception of corruption. This records data from the year 2019.
 The original dataset can be found here https://www.kaggle.com/unsdsn/world-happiness. It is under 2019.csv. 
+
 Technologies used
 Here an awk script takes the data of a csv. The awk script was used to calculate the averages of all data. Makefile was used to compile the results. The Makefile was created with the emacs editor and the awk script was created with vim editor. This was all done in Ubuntu 20.04. 
 Instructions on how to run program

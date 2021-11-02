@@ -4,9 +4,11 @@ This report takes the global average of a list ranking countries by their regard
 The original dataset can be found here https://www.kaggle.com/unsdsn/world-happiness. It is under 2019.csv. 
 
 Technologies used
+
 Here an awk script takes the data of a csv. The awk script was used to calculate the averages of all data. Makefile was used to compile the results. The Makefile was created with the emacs editor and the awk script was created with vim editor. This was all done in Ubuntu 20.04. 
 
 Instructions on how to run program
+
 In order to run the Makefile; it must first be installed. This command will install it on linux. 
 
 -sudo apt install make
